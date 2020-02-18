@@ -336,3 +336,5 @@ print(report)
 
 print("Accuracy Score:" , accuracy_score(y_test,y_preds))
 
+#this is an expression of the best model the next we are going to be looking at is concordance
+
